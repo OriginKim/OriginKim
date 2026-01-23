@@ -10,10 +10,11 @@
 <!-- ✅ Title -->
 <div align="center">
   <h2>천천히, 꾸준하게 성장 중인 컴공 4학년입니다. | CS Senior, Learning Step by Step</h2>
-  <p>
-    🇰🇷 앞으로 2주 동안은 매일 작게라도 커밋하면서, 깃허브를 꾸준히 채워보려고 합니다.<br/>
-    🇺🇸 I’m aiming to commit something small every day for the next two weeks.
-  </p>
+ <p>
+  🇰🇷 캡스톤 프로젝트를 준비하면서, 로컬에서 만든 작업들을 정리해 깃허브에 차근차근 업로드하고 있습니다.<br/>
+  🇺🇸 As I work on my capstone project, I’m gradually organizing and uploading my work here.
+</p>
+
 </div>
 
 <br/>
