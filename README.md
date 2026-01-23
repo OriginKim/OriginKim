@@ -104,9 +104,10 @@
     <a href="https://www.instagram.com/origin__kim/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
     </a>
-    <a href="mailto:rldnjs1221@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
-    </a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rldnjs1221@gmail.com&su=GitHub%20Contact&body=Hi%20GiWon%2C%0A%0A" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+</a>
+
   </div>
 </div>
 
