@@ -127,15 +127,16 @@
   <h2>🏅 Stats</h2>
 
   <div align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=OriginKim&show_icons=true&theme=transparent&cache_seconds=600"
-      height="165"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=OriginKim&layout=compact&theme=transparent&cache_seconds=600"
-      height="165"
-    />
-  </div>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=OriginKim&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400&v=1"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OriginKim&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400&v=1"
+    height="165"
+  />
+</div>
+
 
   <br/>
 
