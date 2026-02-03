@@ -10,41 +10,63 @@
 <!-- ✅ Title -->
 <div align="center">
   <h2>천천히, 꾸준하게 성장 중인 컴공 4학년입니다. | CS Senior, Learning Step by Step</h2>
- <p>
-  🇰🇷 캡스톤 프로젝트를 준비하면서, 로컬에서 만든 작업들을 정리해 깃허브에 차근차근 업로드하고 있습니다.<br/>
-  🇺🇸 As I work on my capstone project, I’m gradually organizing and uploading my work here.
-</p>
-
+  <p>
+    🇰🇷 캡스톤 프로젝트를 준비하면서, 로컬에서 만든 작업들을 정리해 깃허브에 차근차근 업로드하고 있습니다.<br/>
+    🇺🇸 As I work on my capstone project, I’m gradually organizing and uploading my work here.
+  </p>
 </div>
 
 <br/>
 <hr/>
 <br/>
 
-<!-- ✅ About Me (Fold) -->
+<!-- ✅ About Me (LinkedIn Style) -->
 <div align="left">
   <h2>👋 About Me</h2>
 
   <details open>
-    <summary><b>🇰🇷 한국어</b></summary>
+    <summary><b>🇺🇸 English</b></summary>
     <br/>
     <p>
-      안녕하세요! 저는 컴퓨터과학을 전공하고 있는 4학년 학생입니다.<br/>
-      깃허브는 아직 많이 채워져 있진 않지만, 지금부터 꾸준히 기록하고 성장하는 것을 목표로 하고 있어요.<br/><br/>
-      프로젝트를 하면서 <b>요구사항 정리 → 구현 → 테스트/수정 → 문서화</b>까지 한 번에 경험해보는 걸 좋아합니다.<br/>
-      작은 커밋이라도 계속 쌓아가며, <b>“실제로 동작하는 결과물”</b>을 만드는 사람이 되고 싶습니다.
+      Computer Science senior at Sangmyung University.<br/>
+      Currently building a capstone project focused on OCR-based receipt processing and automation.<br/>
+      Interested in backend development, QA/testing, and building practical products.
     </p>
   </details>
 
   <details>
-    <summary><b>🇺🇸 English</b></summary>
+    <summary><b>🇰🇷 한국어</b></summary>
     <br/>
     <p>
-      Hi! I’m a Computer Science senior.<br/>
-      My GitHub is still a work in progress, but I’m starting to document my learning and projects consistently from now on.<br/><br/>
-      I enjoy going through the full process: <b>requirements → implementation → testing → documentation</b>.<br/>
-      My goal is to grow step by step, one commit at a time.
+      상명대학교 컴퓨터과학전공 4학년입니다.<br/>
+      OCR 기반 영수증 자동 처리/분류 캡스톤 프로젝트를 진행 중입니다.<br/>
+      백엔드 개발, QA/테스트, 실사용 가능한 결과물 구현에 관심이 있습니다.
     </p>
+  </details>
+
+  <br/>
+
+  <h3>🎓 Education</h3>
+  <ul>
+    <li><b>2024–Present</b> : Sangmyung University — Computer Science (Transfer)</li>
+    <li><b>2023–2024</b> : Sangmyung University — Smart Information & Telecommunication Engineering</li>
+    <li><b>2019–2020</b> : Kangwon National University — School of Mechanical System Engineering (Attended)</li>
+  </ul>
+
+  <h3>🏆 Awards & Scholarships</h3>
+  <ul>
+    <li><b>2025</b> : Grand Prize (최우수상), Startup Business Plan Competition — Sangmyung University</li>
+    <li><b>2025</b> : National Outstanding Scholarship (Science & Engineering) — Ministry of Science and ICT</li>
+    <li><b>2023</b> : Grand Prize (최우수상), SM Learning Fair — Sangmyung University</li>
+  </ul>
+
+  <details>
+    <summary><b>🔎 Early Experience (Optional)</b></summary>
+    <br/>
+    <ul>
+      <li><b>2016–2017</b> : International Robot Olympiad (Korea Finals / Global)</li>
+      <li><b>2017</b> : SNU DYROS Robot School Completion</li>
+    </ul>
   </details>
 </div>
 
@@ -52,7 +74,7 @@
 <hr/>
 <br/>
 
-<!-- ✅ Tech Stacks (Main / Used) -->
+<!-- ✅ Tech Stacks (Optimized) -->
 <div align="left">
   <h2>🛠️ Tech Stacks</h2>
 
@@ -72,24 +94,10 @@
   <h3>🧩 Used / Studying</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
-  </div>
-
-  <br/>
-
-  <div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white" />
   </div>
 </div>
 
@@ -105,9 +113,8 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
     </a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rldnjs1221@gmail.com&su=GitHub%20Contact&body=Hi%20GiWon%2C%0A%0A" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
-</a>
-
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+    </a>
   </div>
 </div>
 
@@ -139,4 +146,3 @@
     />
   </div>
 </div>
-
