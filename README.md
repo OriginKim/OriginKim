@@ -123,8 +123,6 @@
 <br/>
 
 <!-- ✅ Stats + Activity Graph (10 min cache) -->
-<div align="left">
-  <h2>🏅 Stats</h2>
 
   <div align="left">
   <h2>🏅 Stats</h2>
