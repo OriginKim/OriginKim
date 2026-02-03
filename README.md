@@ -56,7 +56,7 @@
   <h3>🏆 Awards & Scholarships</h3>
   <ul>
     <li><b>2025</b> : Grand Prize (최우수상), Startup Business Plan Competition — Sangmyung University</li>
-    <li><b>2025</b> : National Outstanding Scholarship (Science & Engineering) — Ministry of Science and ICT</li>
+    <li><b>2025</b> : National Outstanding Scholarship (Science & Engineering, Full Tuition for 4 semesters) — Ministry of Science and ICT</li>
     <li><b>2023</b> : Grand Prize (최우수상), SM Learning Fair — Sangmyung University</li>
   </ul>
 
