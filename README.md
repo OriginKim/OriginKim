@@ -31,8 +31,8 @@
   </h3>
 
   <p>
-    A practical web simulator deployed 12 hours before course registration.<br/>
-    Served <b>1.6k+ visitors</b> and <b>5.2k+ page views</b> (tracked via <b>Vercel Analytics</b>).
+    수강신청 전에 연습할 수 있도록 만든 모의 수강신청 시뮬레이터입니다.<br/>
+    배포 후 <b>1.6k+ visitors</b>, <b>5.2k+ page views</b>가 발생했고, 지표는 <b>Vercel Analytics</b>로 확인했습니다.
   </p>
 
   <p>
@@ -41,14 +41,14 @@
     <img src="https://img.shields.io/badge/Bounce_Rate-37%25-orange?style=flat-square"/>
   </p>
 
-  <p>👉 <i>Click the project title to view details</i></p>
+  <p>👉 <i>Click to view project details</i></p>
 </div>
 
 <br/>
 <hr/>
 <br/>
 
-<!-- ✅ About Me (LinkedIn Style) -->
+<!-- ✅ About Me -->
 <div align="left">
   <h2>👋 About Me</h2>
 
@@ -73,6 +73,7 @@
       리눅스 및 클라우드 환경에서의 트러블 슈팅과 시스템 구축에 깊은 관심이 있습니다.
     </p>
   </details>
+
   <br/>
 
   <h3>🎓 Education</h3>
@@ -103,7 +104,7 @@
 <hr/>
 <br/>
 
-<!-- ✅ Tech Stacks (Optimized) -->
+<!-- ✅ Tech Stacks -->
 <div align="left">
   <h2>🛠️ Tech Stacks</h2>
 
