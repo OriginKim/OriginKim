@@ -80,9 +80,9 @@
 
   <h3>🎓 Education</h3>
   <ul>
-    <li><b>2024–Present</b> : Sangmyung University — Computer Science (Transfer)</li>
+    <li><b>2024–Present</b> : Sangmyung University — Computer Science (Major Change)</li>
     <li><b>2023–2024</b> : Sangmyung University — Smart Information & Telecommunication Engineering</li>
-    <li><b>2019–2020</b> : Kangwon National University — School of Mechanical System Engineering (Attended)</li>
+    <li><b>2019–2020</b> : Kangwon National University — School of Mechanical System Engineering (Withdrawn)</li>
   </ul>
 
   <h3>🏆 Awards & Scholarships</h3>
