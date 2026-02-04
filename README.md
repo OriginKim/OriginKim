@@ -36,12 +36,14 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Visitors-1.6k%2B-blue?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Page_Views-5.2k%2B-green?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Bounce_Rate-37%25-orange?style=flat-square"/>
+    <a href="https://github.com/OriginKim/smu-sugang-simulator">
+      <img src="https://img.shields.io/badge/Visitors-1.6k%2B-blue?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Page_Views-5.2k%2B-green?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Bounce_Rate-37%25-orange?style=flat-square"/>
+    </a>
   </p>
 
-  <p>👉 <i>Click to view project details</i></p>
+  <p>👉 <i>Click badges or title to view project details</i></p>
 </div>
 
 <br/>
