@@ -19,6 +19,8 @@
 <br/>
 <hr/>
 <br/>
+
+<!-- ✅ Featured Project -->
 <div align="left">
   <h2>🚀 Featured Project</h2>
 
@@ -29,22 +31,23 @@
   </h3>
 
   <p>
-    A practical web service deployed 12 hours before course registration.<br/>
-    Handled <b>1.6k+ users</b> and <b>5.2k+ views</b> in a short time window.
+    A practical web simulator deployed 12 hours before course registration.<br/>
+    Served <b>1.6k+ visitors</b> and <b>5.2k+ page views</b> (tracked via <b>Vercel Analytics</b>).
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Users-1.6k%2B-blue?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Views-5.2k%2B-green?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Visitors-1.6k%2B-blue?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Page_Views-5.2k%2B-green?style=flat-square"/>
     <img src="https://img.shields.io/badge/Bounce_Rate-37%25-orange?style=flat-square"/>
   </p>
 
-  <p>👉 <i>Click to view implementation details</i></p>
+  <p>👉 <i>Click the project title to view details</i></p>
 </div>
 
 <br/>
 <hr/>
 <br/>
+
 <!-- ✅ About Me (LinkedIn Style) -->
 <div align="left">
   <h2>👋 About Me</h2>
@@ -54,8 +57,9 @@
     <br/>
     <p>
       Computer Science senior at Sangmyung University.<br/>
-      Currently building a capstone project focused on OCR-based receipt processing and automation.<br/>
-      Interested in backend development, QA/testing, and building practical products.
+      Currently focused on <b>Cloud Infrastructure, QA, and Rapid Prototyping</b>.<br/>
+      I define myself as a <b>"Practical Engineer"</b> who values delivering working products over complex theories.<br/>
+      Passionate about <b>Linux, System Stability</b>, and handling real-world traffic.
     </p>
   </details>
 
@@ -64,11 +68,11 @@
     <br/>
     <p>
       상명대학교 컴퓨터과학전공 4학년입니다.<br/>
-      OCR 기반 영수증 자동 처리/분류 캡스톤 프로젝트를 진행 중입니다.<br/>
-      백엔드 개발, QA/테스트, 실사용 가능한 결과물 구현에 관심이 있습니다.
+      단순한 코딩을 넘어, <b>안정적인 서비스 운영(Infra)</b>과 <b>사용자 경험 품질(QA)</b>에 집중하는 엔지니어입니다.<br/>
+      <b>"작동하는 결과물"</b>을 빠르게 만들어내는 것을 중요하게 생각하며,<br/>
+      리눅스 및 클라우드 환경에서의 트러블 슈팅과 시스템 구축에 깊은 관심이 있습니다.
     </p>
   </details>
-
   <br/>
 
   <h3>🎓 Education</h3>
@@ -147,9 +151,8 @@
 <hr/>
 <br/>
 
-<!-- ✅ Stats + Activity Graph (10 min cache) -->
-
-  <div align="left">
+<!-- ✅ Stats -->
+<div align="left">
   <h2>🏅 Stats</h2>
 
   <div align="center">
@@ -162,9 +165,6 @@
       height="165"
     />
   </div>
-</div>
-
-
 
   <br/>
 
