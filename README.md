@@ -20,24 +20,26 @@
 <hr/>
 <br/>
 <div align="left">
-  <h2>🚀 Featured Project (Must See)</h2>
+  <h2>🚀 Featured Project</h2>
+
   <h3>
     <a href="https://github.com/OriginKim/smu-sugang-simulator">
-      <b>🏫 SMU Course Registration Simulator (Traffic Handling)</b>
+      <b>🏫 SMU Course Registration Simulator</b>
     </a>
   </h3>
+
   <p>
-    <strong>"수강신청 전, 1,600명의 트래픽을 감당한 실전 시뮬레이션 서비스"</strong><br>
-    deployed 12 hours before registration, serving 1.6k users with 5.2k views.
+    A practical web service deployed 12 hours before course registration.<br/>
+    Handled <b>1.6k+ users</b> and <b>5.2k+ views</b> in a short time window.
   </p>
+
   <p>
-    <a href="https://github.com/OriginKim/smu-sugang-simulator">
-      <img src="https://img.shields.io/badge/Users-1.6k%2B-blue?style=flat-square&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Views-5.2k%2B-green?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Bounce_Rate-37%25-orange?style=flat-square"/>
-    </a>
+    <img src="https://img.shields.io/badge/Users-1.6k%2B-blue?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Views-5.2k%2B-green?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Bounce_Rate-37%25-orange?style=flat-square"/>
   </p>
-  <p>👉 <i>Click the title above to see DevOps & QA Details</i></p>
+
+  <p>👉 <i>Click to view implementation details</i></p>
 </div>
 
 <br/>
