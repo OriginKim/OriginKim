@@ -19,7 +19,30 @@
 <br/>
 <hr/>
 <br/>
+<div align="left">
+  <h2>🚀 Featured Project (Must See)</h2>
+  <h3>
+    <a href="https://github.com/OriginKim/smu-sugang-simulator">
+      <b>🏫 SMU Course Registration Simulator (Traffic Handling)</b>
+    </a>
+  </h3>
+  <p>
+    <strong>"수강신청 전, 1,600명의 트래픽을 감당한 실전 시뮬레이션 서비스"</strong><br>
+    deployed 12 hours before registration, serving 1.6k users with 5.2k views.
+  </p>
+  <p>
+    <a href="https://github.com/OriginKim/smu-sugang-simulator">
+      <img src="https://img.shields.io/badge/Users-1.6k%2B-blue?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Views-5.2k%2B-green?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Bounce_Rate-37%25-orange?style=flat-square"/>
+    </a>
+  </p>
+  <p>👉 <i>Click the title above to see DevOps & QA Details</i></p>
+</div>
 
+<br/>
+<hr/>
+<br/>
 <!-- ✅ About Me (LinkedIn Style) -->
 <div align="left">
   <h2>👋 About Me</h2>
